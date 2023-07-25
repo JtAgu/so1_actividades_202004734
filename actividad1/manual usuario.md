@@ -26,7 +26,7 @@ En pocas palabras, es la comunicación
 
 <center>
 
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+![Adobe Logo](/img/adobe_standard_logo.png "Hover text")
 
 </center>
 
@@ -39,7 +39,7 @@ En pocas palabras, es la comunicación
 
 <center>
 
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+![Adobe Logo](/img/adobe_standard_logo.png "Hover text")
 
 </center>
 
@@ -51,7 +51,7 @@ En pocas palabras, es la comunicación
 
 <center>
 
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+![Adobe Logo](/img/adobe_standard_logo.png "Hover text")
 
 </center>
 
@@ -90,6 +90,6 @@ En pocas palabras, es la comunicación
 
 </center>
 
->[Articulos_Relacionados]
+>[!MORELIKETHIS]
 >
 >* ¿QUE ES EL [KERNEL?] (https://www.thepowermba.com/es/blog/que-es-el-kernel-cual-es-su-trabajo-y-como-funciona)
