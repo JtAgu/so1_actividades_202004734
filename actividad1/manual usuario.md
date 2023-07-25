@@ -26,7 +26,7 @@ En pocas palabras, es la comunicación
 
 <center>
 
-![Adobe Logo](/img/ubuntu.png "Ubuntu")
+![Ubuntu](img/ubuntu.png "Ubuntu")
 
 </center>
 
@@ -46,7 +46,7 @@ En pocas palabras, es la comunicación
 
 <center>
 
-![Adobe Logo](/img/Mac.png "MacOs")
+![MacOs](img/Mac.png "MacOs")
 
 </center>
 
@@ -77,7 +77,7 @@ En pocas palabras, es la comunicación
 
 <center>
 
-![Adobe Logo](/img/capas.png "Kernel vs User")
+![Capas ](img/capas.png "Kernel vs User")
 
 </center>
 
