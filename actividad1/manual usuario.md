@@ -26,7 +26,7 @@ En pocas palabras, es la comunicación
 
 <center>
 
-![Adobe Logo](/img/adobe_standard_logo.png "Hover text")
+![Adobe Logo](/img/ubuntu.png "Ubuntu")
 
 </center>
 
@@ -37,11 +37,6 @@ En pocas palabras, es la comunicación
 + El rendimiento puede ser ligeramente inferior debido a la necesidad de pasar mensajes entre los módulos para las operaciones del sistema.
 + Ejemplos de sistemas operativos con microkernel son MINIX y QNX.
 
-<center>
-
-![Adobe Logo](/img/adobe_standard_logo.png "Hover text")
-
-</center>
 
 ### **Kernel híbrido:**
 + Es una combinación de características del kernel monolítico y el microkernel.
@@ -51,7 +46,7 @@ En pocas palabras, es la comunicación
 
 <center>
 
-![Adobe Logo](/img/adobe_standard_logo.png "Hover text")
+![Adobe Logo](/img/Mac.png "MacOs")
 
 </center>
 
@@ -62,11 +57,7 @@ En pocas palabras, es la comunicación
 + Requiere un mayor conocimiento técnico por parte de los desarrolladores y puede ser menos seguro.
 + Ejemplos de sistemas que han experimentado con exokernels son XOK y Nemesis.
 
-<center>
 
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
-
-</center>
 
 ## **USER VS KERNEL MODE**
 
@@ -86,7 +77,7 @@ En pocas palabras, es la comunicación
 
 <center>
 
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+![Adobe Logo](/img/capas.png "Kernel vs User")
 
 </center>
 
