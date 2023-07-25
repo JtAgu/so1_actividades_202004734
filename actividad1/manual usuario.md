@@ -13,7 +13,7 @@ Segundo Semestre 2023
 # <center>**KERNEL**</center>
 
 ## **¿Que es el Kernel?**
-En pocas palabras, es la comunicación 
+En pocas palabras, es el intermediario entre el usuario y la maquina, encargado de la mayor parte de funciones relevantes del Sistema Operativo, teniendo a su cargo todos los aspectos de organizacion de los procesos y datos, ademas de manejar los accesos al procesador y la memoria y el hardware coenctado a ella.
 
 
 ## **TIPOS DE KERNEL**
