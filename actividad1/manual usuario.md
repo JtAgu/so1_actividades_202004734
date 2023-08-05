@@ -83,4 +83,4 @@ En pocas palabras, es el intermediario entre el usuario y la maquina, encargado 
 
 >[!MORELIKETHIS]
 >
->* ¿QUE ES EL [KERNEL?] (https://www.thepowermba.com/es/blog/que-es-el-kernel-cual-es-su-trabajo-y-como-funciona)
+>* ¿QUE ES EL KERNEL? (https://www.thepowermba.com/es/blog/que-es-el-kernel-cual-es-su-trabajo-y-como-funciona)
